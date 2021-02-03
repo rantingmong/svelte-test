@@ -1,0 +1,50 @@
+[
+  {
+    "name": "mouse",
+    "subtitle": "The quick and nimble"
+  },
+  {
+    "name": "ox",
+    "subtitle": "The modest and hardworking"
+  },
+  {
+    "name": "tiger",
+    "subtitle": "The majestic and fierce"
+  },
+  {
+    "name": "rabbit",
+    "subtitle": "The joyful and pure"
+  },
+  {
+    "name": "dragon",
+    "subtitle": "The majestic and divine"
+  },
+  {
+    "name": "snake",
+    "subtitle": "The smart and cunning"
+  },
+  {
+    "name": "horse",
+    "subtitle": "The bashful and strong"
+  },
+  {
+    "name": "sheep",
+    "subtitle": "The merry and simple"
+  },
+  {
+    "name": "monkey",
+    "subtitle": "The mischievous and clumsy"
+  },
+  {
+    "name": "rooster",
+    "subtitle": "The timekeeper and watcher"
+  },
+  {
+    "name": "dog",
+    "subtitle": "The loyal and true"
+  },
+  {
+    "name": "pig",
+    "subtitle": "The bountiful and succulent"
+  }
+]
